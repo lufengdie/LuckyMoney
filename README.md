@@ -10,7 +10,7 @@
 
 ## 效果图
 
-![image](screenshot/1.png)![image](screenshot/2.png)![image](screenshot/3.png)
+![image](screenshot/1.png)![image](screenshot/2.png)
 
 ## 存在的问题
 
